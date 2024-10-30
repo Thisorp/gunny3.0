@@ -1,0 +1,1278 @@
+14:46:32,845 - [MAIN] - INFO  - Fighting.Server.FightServer - InitSocket Port:9208: True
+14:46:33,125 - [MAIN] - INFO  - Fighting.Server.FightServer - Registering global event handlers: true
+14:46:33,126 - [MAIN] - INFO  - Fighting.Server.FightServer - Script components: True
+14:46:33,128 - [MAIN] - INFO  - Fighting.Server.FightServer - RoomMgr.Setup: True
+14:46:33,129 - [MAIN] - INFO  - Fighting.Server.FightServer - GameMgr.Setup: True
+14:46:38,328 - [MAIN] - INFO  - Fighting.Server.FightServer - MapMgr Init: True
+14:46:38,403 - [MAIN] - INFO  - Fighting.Server.FightServer - ItemMgr Init: True
+14:46:38,407 - [MAIN] - INFO  - Fighting.Server.FightServer - ItemMgr Init: True
+14:46:38,545 - [MAIN] - INFO  - Fighting.Server.FightServer - BallMgr Init: True
+14:46:38,585 - [MAIN] - INFO  - Fighting.Server.FightServer - DropMgr Init: True
+14:46:38,596 - [MAIN] - INFO  - Fighting.Server.FightServer - NPCInfoMgr Init: True
+14:46:38,601 - [MAIN] - INFO  - Fighting.Server.FightServer - LanguageMgr Init: True
+14:46:38,611 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+14:46:38,620 - [MAIN] - INFO  - Fighting.Server.FightServer - base.Start(): True
+14:46:38,627 - [MAIN] - INFO  - Fighting.Server.FightServer - GameServer is now open for connections!
+14:47:03,677 - [8] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:50859
+14:50:14,002 - [8] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+14:50:41,903 - [8] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:50918
+15:00:28,423 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+15:00:28,426 - [10] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+15:00:28,440 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitPlayerLoadingAction
+15:00:45,717 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.RemovePlayerAction
+15:00:45,742 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+15:01:11,658 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.RemovePlayerAction
+15:01:11,663 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+15:01:11,742 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+15:01:26,817 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+15:10:49,607 - [8] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+15:11:49,438 - [8] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:51358
+15:12:46,350 - [8] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+15:13:08,624 - [8] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:51388
+15:15:49,776 - [8] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+15:17:37,525 - [8] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:51493
+15:19:35,248 - [8] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+15:19:59,565 - [8] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:51537
+15:24:33,823 - [8] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+15:24:45,517 - [8] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:51657
+15:25:47,950 - [8] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+15:26:24,552 - [8] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:51685
+15:50:30,245 - [8] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+16:05:13,192 - [8] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:52814
+16:11:10,868 - [8] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+16:11:20,680 - [8] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:5298416:36:10,288 - [MAIN] - INFO  - Fighting.Server.FightServer - InitSocket Port:9208: True
+16:36:10,547 - [MAIN] - INFO  - Fighting.Server.FightServer - Registering global event handlers: true
+16:36:10,548 - [MAIN] - INFO  - Fighting.Server.FightServer - Script components: True
+16:36:10,549 - [MAIN] - INFO  - Fighting.Server.FightServer - RoomMgr.Setup: True
+16:36:10,550 - [MAIN] - INFO  - Fighting.Server.FightServer - GameMgr.Setup: True
+16:36:12,350 - [MAIN] - INFO  - Fighting.Server.FightServer - MapMgr Init: True
+16:36:12,433 - [MAIN] - INFO  - Fighting.Server.FightServer - ItemMgr Init: True
+16:36:12,437 - [MAIN] - INFO  - Fighting.Server.FightServer - ItemMgr Init: True
+16:36:12,581 - [MAIN] - INFO  - Fighting.Server.FightServer - BallMgr Init: True
+16:36:12,594 - [MAIN] - INFO  - Fighting.Server.FightServer - DropMgr Init: True
+16:36:12,603 - [MAIN] - INFO  - Fighting.Server.FightServer - NPCInfoMgr Init: True
+16:36:12,953 - [MAIN] - INFO  - Fighting.Server.FightServer - LanguageMgr Init: True
+16:36:12,967 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+16:36:12,978 - [MAIN] - INFO  - Fighting.Server.FightServer - base.Start(): True
+16:36:13,008 - [MAIN] - INFO  - Fighting.Server.FightServer - GameServer is now open for connections!
+16:37:01,597 - [11] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:53705
+16:38:03,039 - [14] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+16:38:07,630 - [14] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -4556 ms!
+16:38:09,545 - [13] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+16:38:10,550 - [13] - WARN  - Fighting.Server.Rooms.ProxyRoomMgr - Room Mgr is delay -7516 ms!
+16:38:10,556 - [13] - WARN  - Fighting.Server.Rooms.ProxyRoomMgr - Room Mgr is delay -6476 ms!
+16:38:10,556 - [13] - WARN  - Fighting.Server.Rooms.ProxyRoomMgr - Room Mgr is delay -5436 ms!
+16:38:10,565 - [13] - WARN  - Fighting.Server.Rooms.ProxyRoomMgr - Room Mgr is delay -4396 ms!
+16:38:10,565 - [13] - WARN  - Fighting.Server.Rooms.ProxyRoomMgr - Room Mgr is delay -3356 ms!
+16:38:10,569 - [13] - WARN  - Fighting.Server.Rooms.ProxyRoomMgr - Room Mgr is delay -2316 ms!
+16:38:11,326 - [14] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+16:38:11,340 - [14] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -5314 ms!
+16:38:11,344 - [14] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitPlayerLoadingAction
+16:38:11,345 - [14] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -4278 ms!
+16:38:11,346 - [14] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -3239 ms!
+16:38:11,337 - [13] - WARN  - Fighting.Server.Rooms.ProxyRoomMgr - Room Mgr is delay -1276 ms!
+16:38:11,349 - [14] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -2199 ms!
+16:38:11,356 - [14] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -1159 ms!
+16:38:55,300 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.RemovePlayerAction
+16:38:55,305 - [14] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+16:39:00,742 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.RemovePlayerAction
+16:39:00,750 - [14] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+16:39:00,868 - [14] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+16:39:15,939 - [14] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+16:45:46,845 - [14] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+16:45:48,116 - [13] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+16:45:48,119 - [13] - WARN  - Fighting.Server.Rooms.ProxyRoomMgr - Room Mgr is delay -5285 ms!
+16:45:48,120 - [13] - WARN  - Fighting.Server.Rooms.ProxyRoomMgr - Room Mgr is delay -4245 ms!
+16:45:48,120 - [13] - WARN  - Fighting.Server.Rooms.ProxyRoomMgr - Room Mgr is delay -3205 ms!
+16:45:48,121 - [13] - WARN  - Fighting.Server.Rooms.ProxyRoomMgr - Room Mgr is delay -2165 ms!
+16:45:48,122 - [13] - WARN  - Fighting.Server.Rooms.ProxyRoomMgr - Room Mgr is delay -1125 ms!
+16:45:51,461 - [14] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+16:45:51,483 - [14] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -3341 ms!
+16:45:51,484 - [14] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitPlayerLoadingAction
+16:45:51,490 - [14] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -2306 ms!
+16:45:51,490 - [14] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -1266 ms!
+16:45:57,666 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:45:57,751 - [14] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 0  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 377
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 419
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+16:45:58,427 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:45:58,440 - [14] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 1  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 377
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 419
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+16:45:58,671 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:45:58,680 - [14] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 0  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 377
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 419
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+16:45:59,685 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:45:59,710 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:45:59,717 - [14] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 0  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 377
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 419
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+16:45:59,728 - [14] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 1  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 377
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 419
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+16:46:00,703 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:46:00,728 - [14] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 0  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 377
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 419
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+16:46:00,754 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:46:00,768 - [14] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 1  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 377
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 419
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+16:46:01,713 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:46:01,724 - [14] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 0  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 377
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 419
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+16:46:01,789 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:46:01,805 - [14] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 1  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 377
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 419
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+16:46:02,738 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:46:02,772 - [14] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 0  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 377
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 419
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+16:46:02,805 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:46:02,850 - [14] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 1  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 377
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 419
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+16:46:03,736 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:46:03,766 - [14] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+16:46:03,771 - [14] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 0  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 377
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 419
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace16:53:31,208 - [MAIN] - INFO  - Fighting.Server.FightServer - InitSocket Port:9208: True
+16:53:31,251 - [MAIN] - INFO  - Fighting.Server.FightServer - Registering global event handlers: true
+16:53:31,251 - [MAIN] - INFO  - Fighting.Server.FightServer - Script components: True
+16:53:31,253 - [MAIN] - INFO  - Fighting.Server.FightServer - RoomMgr.Setup: True
+16:53:31,253 - [MAIN] - INFO  - Fighting.Server.FightServer - GameMgr.Setup: True
+16:53:32,747 - [MAIN] - INFO  - Fighting.Server.FightServer - MapMgr Init: True
+16:53:32,818 - [MAIN] - INFO  - Fighting.Server.FightServer - ItemMgr Init: True
+16:53:32,822 - [MAIN] - INFO  - Fighting.Server.FightServer - ItemMgr Init: True
+16:53:32,912 - [MAIN] - INFO  - Fighting.Server.FightServer - BallMgr Init: True
+16:53:32,931 - [MAIN] - INFO  - Fighting.Server.FightServer - DropMgr Init: True
+16:53:32,945 - [MAIN] - INFO  - Fighting.Server.FightServer - NPCInfoMgr Init: True
+16:53:32,950 - [MAIN] - INFO  - Fighting.Server.FightServer - LanguageMgr Init: True
+16:53:32,959 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+16:53:32,967 - [MAIN] - INFO  - Fighting.Server.FightServer - base.Start(): True
+16:53:32,980 - [MAIN] - INFO  - Fighting.Server.FightServer - GameServer is now open for connections!
+16:53:48,014 - [9] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:54617
+16:56:12,998 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+16:56:13,024 - [12] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitPlayerLoadingAction
+16:56:46,673 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.RemovePlayerAction
+16:56:46,699 - [12] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+16:56:46,889 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.RemovePlayerAction
+16:56:46,894 - [12] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+16:56:46,974 - [12] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+16:57:02,053 - [12] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+16:58:12,885 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+16:58:12,921 - [12] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitPlayerLoadingAction
+16:58:14,389 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:14,550 - [12] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 0  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 377
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 419
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+16:58:15,531 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:15,570 - [12] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 0  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 377
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 419
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+16:58:15,931 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:15,973 - [12] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 1  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 377
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 419
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+16:58:16,551 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:16,570 - [12] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+16:58:16,576 - [12] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 0  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 377
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 419
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+16:58:17,023 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:17,049 - [12] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+16:58:17,053 - [12] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 1  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 377
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 419
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+16:58:19,172 - [12] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+16:58:19,238 - [12] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+16:58:21,640 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:23,143 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:23,155 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:24,151 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:24,223 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:25,157 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:25,333 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:26,204 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:26,336 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:27,236 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:27,450 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:28,236 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:28,491 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:29,236 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:29,603 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:30,239 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:30,607 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:31,236 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:31,607 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:32,236 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:32,611 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:33,236 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:33,716 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:34,235 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:34,733 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:35,236 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:35,771 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:36,269 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:36,802 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:37,268 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:37,806 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:38,269 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:38,814 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:39,268 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:39,823 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:40,269 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:40,854 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:41,259 - [12] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+16:58:41,269 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:41,298 - [12] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+16:58:41,869 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:42,269 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:42,889 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:43,269 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:43,913 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:44,269 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:44,914 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:45,269 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:46,015 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:46,268 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:47,015 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:47,271 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:48,024 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:48,319 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:49,057 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:49,319 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:50,169 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:50,319 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:51,186 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:51,319 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:52,199 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:52,320 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:53,207 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:53,320 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:54,215 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:54,319 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:55,256 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:55,319 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:56,283 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:56,353 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:57,387 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:57,404 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:58,414 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:58,436 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:59,436 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:58:59,457 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:59:00,438 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:59:00,485 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:59:01,438 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:59:01,512 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:59:02,436 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:59:02,512 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:59:03,296 - [12] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+16:59:03,336 - [12] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+16:59:03,470 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:59:03,530 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:59:04,520 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:59:04,543 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:59:05,519 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:59:05,568 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:59:06,521 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:59:06,603 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:59:07,521 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:59:07,617 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:59:08,519 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:59:08,649 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:59:09,552 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:59:09,649 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:59:10,586 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:59:10,658 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:59:11,589 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:59:11,686 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:59:12,588 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:59:12,735 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:59:13,636 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:59:13,768 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:59:14,636 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:59:14,868 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:59:15,636 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:59:15,962 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:59:16,670 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:59:16,997 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+16:59:17,519 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.RemovePlayerAction
+16:59:17,524 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+16:59:17,544 - [12] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+17:01:22,838 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+17:01:22,848 - [12] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitPlayerLoadingAction
+17:01:24,916 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:01:24,937 - [12] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 0  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 377
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 419
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+17:01:25,756 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:01:25,773 - [12] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 1  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 377
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 419
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+17:01:25,950 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:01:25,971 - [12] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+17:01:25,977 - [12] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 0  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 377
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 419
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+17:01:26,835 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:01:26,848 - [12] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+17:01:26,860 - [12] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 1  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 377
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 419
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+17:01:28,927 - [12] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+17:01:28,967 - [12] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+17:01:31,043 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:01:32,106 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:01:32,116 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:01:33,126 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:01:33,140 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:01:34,119 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:01:34,174 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:01:35,119 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:01:35,192 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:01:36,119 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:01:36,201 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:01:37,119 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:01:37,301 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:01:38,119 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:01:38,336 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:01:39,119 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:01:39,337 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:01:40,119 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:01:40,338 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:01:41,119 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:01:41,338 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:01:42,119 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:01:42,339 - [9] - INFO  - Game.17:03:13,487 - [MAIN] - INFO  - Fighting.Server.FightServer - InitSocket Port:9208: True
+17:03:13,531 - [MAIN] - INFO  - Fighting.Server.FightServer - Registering global event handlers: true
+17:03:13,532 - [MAIN] - INFO  - Fighting.Server.FightServer - Script components: True
+17:03:13,533 - [MAIN] - INFO  - Fighting.Server.FightServer - RoomMgr.Setup: True
+17:03:13,534 - [MAIN] - INFO  - Fighting.Server.FightServer - GameMgr.Setup: True
+17:03:18,190 - [MAIN] - INFO  - Fighting.Server.FightServer - MapMgr Init: True
+17:03:18,286 - [MAIN] - INFO  - Fighting.Server.FightServer - ItemMgr Init: True
+17:03:18,291 - [MAIN] - INFO  - Fighting.Server.FightServer - ItemMgr Init: True
+17:03:18,377 - [MAIN] - INFO  - Fighting.Server.FightServer - BallMgr Init: True
+17:03:18,392 - [MAIN] - INFO  - Fighting.Server.FightServer - DropMgr Init: True
+17:03:18,402 - [MAIN] - INFO  - Fighting.Server.FightServer - NPCInfoMgr Init: True
+17:03:18,406 - [MAIN] - INFO  - Fighting.Server.FightServer - LanguageMgr Init: True
+17:03:18,418 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+17:03:18,426 - [MAIN] - INFO  - Fighting.Server.FightServer - base.Start(): True
+17:03:18,440 - [MAIN] - INFO  - Fighting.Server.FightServer - GameServer is now open for connections!
+17:03:28,725 - [8] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:55141
+17:04:08,452 - [10] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+17:04:08,486 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitPlayerLoadingAction
+17:04:10,090 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:04:10,131 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 1  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 377
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 419
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+17:04:11,191 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:04:11,204 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 1  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 377
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 419
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+17:04:11,613 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:04:11,645 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 0  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 377
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 419
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+17:04:12,236 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:04:12,251 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+17:04:12,256 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 1  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 377
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 419
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+17:04:12,655 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:04:12,691 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+17:04:12,697 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 0  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 377
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 419
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+17:04:14,770 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+17:04:14,833 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+17:04:16,062 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:04:17,171 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:04:17,180 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:04:18,219 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:04:18,272 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:04:19,219 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:04:19,382 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:04:20,219 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:04:20,385 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:04:21,218 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:04:21,385 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:04:22,219 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:04:22,403 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:04:23,219 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:04:23,434 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:04:24,218 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:04:24,436 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:04:25,219 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:04:25,466 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:04:26,219 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:04:26,469 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:04:27,219 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:04:27,492 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:04:28,219 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:04:36,829 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+17:04:48,154 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:04:48,159 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:04:48,159 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:04:48,159 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -11295 ms!
+17:04:48,159 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:04:48,162 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:04:48,162 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:04:48,162 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+17:04:48,164 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -10257 ms!
+17:04:48,165 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -9217 ms!
+17:04:48,162 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:04:48,166 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:04:48,166 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -8177 ms!
+17:04:48,168 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -7137 ms!
+17:04:48,169 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -6097 ms!
+17:04:48,167 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:04:48,172 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:04:48,172 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:04:48,172 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:04:48,172 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:04:48,173 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:04:48,173 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:04:48,173 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:04:48,175 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:04:48,175 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:04:48,175 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:04:48,176 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:04:48,176 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:04:48,176 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:04:48,176 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:04:48,177 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:04:48,177 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:04:48,177 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:04:48,177 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+17:04:48,177 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Ac19:56:17,759 - [MAIN] - INFO  - Fighting.Server.FightServer - InitSocket Port:9208: True
+19:56:17,900 - [MAIN] - INFO  - Fighting.Server.FightServer - Registering global event handlers: true
+19:56:17,901 - [MAIN] - INFO  - Fighting.Server.FightServer - Script components: True
+19:56:17,903 - [MAIN] - INFO  - Fighting.Server.FightServer - RoomMgr.Setup: True
+19:56:17,905 - [MAIN] - INFO  - Fighting.Server.FightServer - GameMgr.Setup: True
+19:56:19,809 - [MAIN] - INFO  - Fighting.Server.FightServer - MapMgr Init: True
+19:56:20,288 - [MAIN] - INFO  - Fighting.Server.FightServer - ItemMgr Init: True
+19:56:20,298 - [MAIN] - INFO  - Fighting.Server.FightServer - ItemMgr Init: True
+19:56:20,427 - [MAIN] - INFO  - Fighting.Server.FightServer - BallMgr Init: True
+19:56:20,502 - [MAIN] - INFO  - Fighting.Server.FightServer - DropMgr Init: True
+19:56:20,538 - [MAIN] - INFO  - Fighting.Server.FightServer - NPCInfoMgr Init: True
+19:56:20,548 - [MAIN] - INFO  - Fighting.Server.FightServer - LanguageMgr Init: True
+19:56:20,563 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+19:56:20,571 - [MAIN] - INFO  - Fighting.Server.FightServer - base.Start(): True
+19:56:20,581 - [MAIN] - INFO  - Fighting.Server.FightServer - GameServer is now open for connections!
+19:57:27,076 - [8] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:49721
+19:59:10,583 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+19:59:10,587 - [10] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+19:59:10,624 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitPlayerLoadingAction
+19:59:12,796 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:12,802 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:14,449 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:14,449 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 1  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 377
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 419
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+19:59:14,449 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:15,039 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:15,041 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:15,043 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 0  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 377
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 419
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+19:59:15,050 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -2191 ms!
+19:59:15,058 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+19:59:15,067 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 1  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 377
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 419
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+19:59:15,077 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 0  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 377
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 419
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+19:59:15,106 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+19:59:15,111 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 1  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 377
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 419
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+19:59:15,116 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+19:59:15,125 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 0  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 377
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 419
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+19:59:15,133 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -1227 ms!
+19:59:15,294 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+19:59:15,860 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:16,893 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:17,893 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:18,894 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:19,451 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:19,893 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:20,484 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:20,894 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:21,485 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:21,926 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:22,484 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:22,928 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:23,485 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:23,978 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:24,484 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:24,977 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:25,484 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:25,978 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:26,484 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:27,009 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:27,484 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:28,009 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:28,484 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:29,010 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:29,486 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:30,011 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:30,485 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:31,062 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:31,488 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:32,063 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:32,536 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:33,093 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:33,535 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:34,092 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:34,536 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:35,093 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:35,568 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:36,126 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:36,567 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:37,127 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:37,318 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+19:59:37,357 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+19:59:37,567 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:38,126 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:38,567 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:39,126 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:39,568 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:40,126 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:40,567 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:41,127 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:41,568 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:42,127 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:42,568 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:43,126 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:43,568 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:44,126 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:44,567 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:45,126 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:45,568 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:46,127 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:46,569 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:47,128 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:47,569 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:48,127 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:48,568 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:49,128 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:49,569 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:50,127 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:50,568 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:51,127 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:51,567 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:52,126 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:52,567 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:53,127 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:53,568 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:54,177 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:54,568 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:55,210 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:55,568 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:56,262 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:56,567 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:57,294 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:57,568 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:58,293 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:58,567 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:59,294 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+19:59:59,374 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+19:59:59,418 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+19:59:59,568 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:00:00,293 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:00:00,568 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:00:01,294 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:00:01,568 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:00:02,327 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:00:02,568 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:00:03,377 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:00:03,568 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:00:04,378 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:00:04,569 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:00:05,377 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:00:05,569 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:00:06,378 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:00:06,569 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:00:07,378 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:00:07,568 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:00:08,378 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:00:08,567 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:00:09,378 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:00:09,569 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:00:10,410 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:00:10,567 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:00:11,413 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:00:11,568 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:00:12,412 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:00:12,601 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:00:13,462 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:00:13,651 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:00:14,460 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:00:14,686 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:00:15,460 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:00:15,735 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:00:16,460 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:00:16,768 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:00:17,801 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:00:18,801 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:00:19,801 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:00:21,432 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:00:21,474 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+20:00:33,998 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.RemovePlayerAction
+20:00:34,002 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:00:34,040 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:02:20,453 - [10] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:02:20,490 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitPlayerLoadingAction
+20:02:22,114 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:02:22,127 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:02:22,140 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 0  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 377
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 419
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+20:02:22,148 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:02:22,170 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 1  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 377
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 419
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+20:02:23,144 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:02:23,145 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:02:23,145 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:02:23,166 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 0  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 377
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 419
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+20:02:23,186 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:02:23,188 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 1  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 377
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 419
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+20:02:36,936 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:02:36,939 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:02:36,940 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:02:36,941 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -13720 ms!
+20:02:36,945 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+20:02:36,941 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:02:36,952 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:02:36,954 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:02:36,952 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -12687 ms!
+20:02:36,955 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:02:36,959 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -11647 ms!
+20:02:36,961 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:02:36,964 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:02:36,964 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:02:36,964 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -10607 ms!
+20:02:36,965 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:02:36,965 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -9567 ms!
+20:02:36,966 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -8527 ms!
+20:02:36,966 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -7487 ms!
+20:02:36,966 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -6447 ms!
+20:02:36,966 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -5407 ms!
+20:02:36,967 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -4367 ms!
+20:02:36,966 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:02:36,967 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:02:36,967 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:02:36,968 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:02:36,967 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -3327 ms!
+20:02:36,968 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:02:36,968 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:02:36,968 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:02:36,969 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:02:36,969 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:02:36,969 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:02:36,970 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:02:36,970 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:02:36,968 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -2287 ms!
+20:02:36,971 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -1247 ms!
+20:02:36,971 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:02:36,972 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:02:36,972 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:02:41,147 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:02:49,282 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:02:49,286 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:02:49,316 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:02:49,325 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+20:02:49,601 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:02:53,427 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:02:54,276 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:02:55,798 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:02:56,476 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:02:56,592 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:02:57,547 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:02:57,714 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:02:57,728 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:02:57,747 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:02:57,768 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+20:02:58,031 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:03:02,681 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:03:03,319 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:03:04,281 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:03:04,631 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:03:04,945 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:03:05,029 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:03:05,112 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:03:05,280 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:03:05,479 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:03:06,081 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:03:06,095 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:03:06,114 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:03:06,135 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+20:03:06,394 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:03:14,396 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:03:14,406 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:03:14,429 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:03:14,447 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+20:03:14,716 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:03:22,798 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:03:22,805 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:03:22,838 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:03:22,844 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+20:03:23,205 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:03:30,426 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:03:31,337 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:03:31,392 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:03:31,405 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:03:31,430 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:03:31,445 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+20:03:31,799 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:03:36,747 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:03:36,799 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:03:36,885 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:03:36,953 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:03:37,031 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:03:37,113 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:03:37,197 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:03:37,280 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:03:37,348 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:03:37,431 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:03:37,513 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:03:38,118 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:03:38,196 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:03:38,280 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:03:38,346 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:03:38,429 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:03:38,513 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:03:38,598 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:03:38,680 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:03:38,746 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:03:38,832 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:03:41,117 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:03:41,117 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:03:41,117 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:03:43,366 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:03:43,406 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+20:03:43,677 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:03:51,711 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:03:51,726 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:03:51,746 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:03:51,766 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+20:03:52,011 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:04:00,096 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:04:00,128 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:04:00,130 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:04:00,169 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+20:04:00,426 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:04:08,428 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:04:08,457 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:04:08,481 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:04:08,497 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+20:04:08,778 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:04:16,814 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:04:16,823 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:04:16,865 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:04:16,865 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+20:04:17,111 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:04:25,227 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:04:25,245 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:04:25,278 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:04:25,284 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+20:04:25,528 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:04:33,530 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:04:33,566 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:04:33,580 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:04:33,606 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+20:04:33,876 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:04:41,877 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:04:41,886 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:04:41,910 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:04:41,925 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+20:04:42,178 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:04:43,656 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:04:45,781 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:04:45,782 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:04:45,784 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:07:00,918 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -135126 ms!
+20:07:00,925 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -134086 ms!
+20:07:00,925 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -133046 ms!
+20:07:00,925 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -132006 ms!
+20:07:00,926 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -130966 ms!
+20:07:00,926 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -129926 ms!
+20:07:00,927 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -128886 ms!
+20:07:00,928 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -127846 ms!
+20:07:00,928 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -126806 ms!
+20:07:00,928 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -125766 ms!
+20:07:00,928 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -124726 ms!
+20:07:00,930 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -123686 ms!
+20:07:00,930 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -122646 ms!
+20:07:00,930 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -121606 ms!
+20:07:00,931 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -120566 ms!
+20:07:00,931 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -119526 ms!
+20:07:00,931 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -118486 ms!
+20:07:00,932 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -117446 ms!
+20:07:00,932 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -116406 ms!
+20:07:00,933 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -115366 ms!
+20:07:00,933 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -114326 ms!
+20:07:00,933 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -113286 ms!
+20:07:00,934 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -112246 ms!
+20:07:00,935 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -111206 ms!
+20:07:00,935 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -110166 ms!
+20:07:00,936 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -109126 ms!
+20:07:00,936 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -108086 ms!
+20:07:00,937 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -107046 ms!
+20:07:00,937 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -106006 ms!
+20:07:00,937 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -104966 ms!
+20:07:00,938 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -103926 ms!
+20:07:00,938 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -102886 ms!
+20:07:00,938 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -101846 ms!
+20:07:00,939 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -100806 ms!
+20:07:00,939 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -99766 ms!
+20:07:00,939 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -98726 ms!
+20:07:00,939 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -97686 ms!
+20:07:00,940 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -96646 ms!
+20:07:00,940 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -95606 ms!
+20:07:00,940 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -94566 ms!
+20:07:00,940 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -93526 ms!
+20:07:00,941 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -92486 ms!
+20:07:00,941 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -91446 ms!
+20:07:00,941 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -90406 ms!
+20:07:00,942 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -89366 ms!
+20:07:00,943 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -88326 ms!
+20:07:00,944 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -87286 ms!
+20:07:00,945 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -86246 ms!
+20:07:00,945 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -85206 ms!
+20:07:00,946 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -84166 ms!
+20:07:00,946 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -83126 ms!
+20:07:00,947 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -82086 ms!
+20:07:00,947 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -81046 ms!
+20:07:00,948 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -80006 ms!
+20:07:00,950 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -78966 ms!
+20:07:00,951 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -77926 ms!
+20:07:00,952 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -76886 ms!
+20:07:00,952 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -75846 ms!
+20:07:00,953 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -74806 ms!
+20:07:00,953 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -73766 ms!
+20:07:00,953 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -72726 ms!
+20:07:00,953 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -71686 ms!
+20:07:00,954 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -70646 ms!
+20:07:00,954 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -69606 ms!
+20:07:00,955 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -68566 ms!
+20:07:00,955 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -67526 ms!
+20:07:00,955 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -66486 ms!
+20:07:00,955 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -65446 ms!
+20:07:00,956 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -64406 ms!
+20:07:00,956 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -63366 ms!
+20:07:00,956 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -62326 ms!
+20:07:00,956 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -61286 ms!
+20:07:00,957 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -60246 ms!
+20:07:00,957 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -59206 ms!
+20:07:00,957 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -58166 ms!
+20:07:00,957 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -57126 ms!
+20:07:00,958 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -56086 ms!
+20:07:00,958 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -55046 ms!
+20:07:00,958 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -54006 ms!
+20:07:00,959 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -52966 ms!
+20:07:00,959 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -51926 ms!
+20:07:00,959 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -50886 ms!
+20:07:00,959 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -49846 ms!
+20:07:00,960 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -48806 ms!
+20:07:00,960 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -47766 ms!
+20:07:00,960 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -46726 ms!
+20:07:00,960 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -45686 ms!
+20:07:00,961 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -44646 ms!
+20:07:00,961 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -43606 ms!
+20:07:00,961 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -42566 ms!
+20:07:00,961 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -41526 ms!
+20:07:00,962 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -40486 ms!
+20:07:00,962 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -39446 ms!
+20:07:00,962 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -38406 ms!
+20:07:00,962 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -37366 ms!
+20:07:00,963 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -36326 ms!
+20:07:00,963 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -35286 ms!
+20:07:00,963 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -34246 ms!
+20:07:00,964 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -33206 ms!
+20:07:00,964 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -32166 ms!
+20:07:00,964 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -31126 ms!
+20:07:00,964 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -30086 ms!
+20:07:00,965 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -29046 ms!
+20:07:00,965 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -28006 ms!
+20:07:00,965 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -26966 ms!
+20:07:00,965 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -25926 ms!
+20:07:00,966 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -24886 ms!
+20:07:00,966 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -23846 ms!
+20:07:00,966 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -22806 ms!
+20:07:00,966 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -21766 ms!
+20:07:00,966 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -20726 ms!
+20:07:00,967 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -19686 ms!
+20:07:00,967 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -18646 ms!
+20:07:00,967 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -17606 ms!
+20:07:00,967 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -16566 ms!
+20:07:00,968 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -15526 ms!
+20:07:00,968 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -14486 ms!
+20:07:00,968 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -13446 ms!
+20:07:00,968 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -12406 ms!
+20:07:00,969 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -11366 ms!
+20:07:00,969 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -10326 ms!
+20:07:00,969 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -9286 ms!
+20:07:00,970 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -8246 ms!
+20:07:00,970 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -7206 ms!
+20:07:00,971 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -6166 ms!
+20:07:00,971 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -5126 ms!
+20:07:00,971 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -4086 ms!
+20:07:00,971 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -3046 ms!
+20:07:00,972 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -2006 ms!
+20:07:03,126 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:07:03,165 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+20:07:03,510 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:07:11,477 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:07:11,484 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:07:11,511 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:07:11,524 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+20:07:33,532 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:07:33,572 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+20:07:33,826 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:07:41,828 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:07:41,854 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:07:41,882 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:07:41,893 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+20:08:03,889 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:08:03,928 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+20:08:04,192 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:08:12,194 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:08:12,205 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:08:12,227 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:08:12,244 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+20:08:34,270 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:08:34,311 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+20:08:34,594 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:08:42,593 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:08:42,614 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:08:42,628 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:08:42,653 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+20:09:04,657 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:09:04,696 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+20:09:04,943 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:09:12,911 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:09:12,936 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:09:12,943 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:09:12,975 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+20:09:34,980 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:09:35,020 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+20:09:57,050 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:09:57,089 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+20:09:57,343 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:10:05,343 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:10:05,377 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:10:05,393 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:10:05,416 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+20:10:27,436 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:10:27,476 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+20:10:27,743 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:10:35,744 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:10:35,778 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:10:35,793 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:10:35,818 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+20:10:57,818 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:10:57,858 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+20:10:58,109 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:11:06,228 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:11:06,268 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:11:06,277 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:11:06,308 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+20:11:28,335 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:11:28,375 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+20:11:28,628 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:11:36,630 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:11:36,658 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:11:36,677 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:11:36,697 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+20:11:58,695 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:11:58,734 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+20:11:58,993 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:12:06,994 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:12:07,017 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:12:07,028 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:12:07,056 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+20:12:29,064 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:12:29,104 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+20:12:29,342 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:12:37,343 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:12:37,375 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:12:37,393 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:12:37,416 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+20:12:59,420 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:12:59,460 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+20:12:59,709 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:13:07,710 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:13:07,742 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:13:07,744 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:13:07,784 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+20:13:29,794 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:13:29,834 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+20:13:51,857 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:13:51,898 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+20:13:52,142 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:14:00,193 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:14:00,217 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:14:00,223 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:14:00,257 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+20:14:22,254 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:14:22,293 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+20:14:22,543 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:14:30,543 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:14:30,577 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:14:30,593 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:14:30,617 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+20:14:52,623 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:14:52,662 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+20:14:52,910 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:15:00,878 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:15:00,904 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:15:00,912 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:15:00,945 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+20:15:22,938 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:15:22,977 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+20:15:23,227 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:15:31,193 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:15:31,208 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:15:31,227 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:15:31,249 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttacki20:22:27,251 - [MAIN] - INFO  - Fighting.Server.FightServer - InitSocket Port:9208: True
+20:22:27,360 - [MAIN] - INFO  - Fighting.Server.FightServer - Registering global event handlers: true
+20:22:27,376 - [MAIN] - INFO  - Fighting.Server.FightServer - Script components: True
+20:22:27,376 - [MAIN] - INFO  - Fighting.Server.FightServer - RoomMgr.Setup: True
+20:22:27,376 - [MAIN] - INFO  - Fighting.Server.FightServer - GameMgr.Setup: True
+20:22:28,764 - [MAIN] - INFO  - Fighting.Server.FightServer - MapMgr Init: True
+20:22:28,811 - [MAIN] - INFO  - Fighting.Server.FightServer - ItemMgr Init: True
+20:22:28,811 - [MAIN] - INFO  - Fighting.Server.FightServer - ItemMgr Init: True
+20:22:28,983 - [MAIN] - INFO  - Fighting.Server.FightServer - BallMgr Init: True
+20:22:29,045 - [MAIN] - INFO  - Fighting.Server.FightServer - DropMgr Init: True
+20:22:29,076 - [MAIN] - INFO  - Fighting.Server.FightServer - NPCInfoMgr Init: True
+20:22:29,092 - [MAIN] - INFO  - Fighting.Server.FightServer - LanguageMgr Init: True
+20:22:29,092 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+20:22:29,107 - [MAIN] - INFO  - Fighting.Server.FightServer - base.Start(): True
+20:22:29,139 - [MAIN] - INFO  - Fighting.Server.FightServer - GameServer is now open for connections!
+20:22:39,828 - [9] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:50236
+20:26:29,109 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:26:29,109 - [12] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:26:29,149 - [12] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitPlayerLoadingAction
+20:26:31,241 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:26:31,286 - [12] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 1  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 377
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 419
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+20:26:32,323 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:26:32,354 - [12] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 1  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 377
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 419
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+20:26:32,564 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:26:32,591 - [12] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:26:32,598 - [12] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 0  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 377
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 419
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+20:26:33,337 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:26:33,357 - [12] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:26:33,363 - [12] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 1  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 377
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 419
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+20:26:35,455 - [12] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:26:35,509 - [12] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+20:26:37,939 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:26:39,736 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:26:44,508 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:26:44,510 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:26:44,512 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:27:03,784 - [12] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -19245 ms!
+20:27:03,794 - [12] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -18205 ms!
+20:27:03,794 - [12] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -17165 ms!
+20:27:03,794 - [12] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -16125 ms!
+20:27:03,794 - [12] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -15085 ms!
+20:27:03,794 - [12] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -14045 ms!
+20:27:03,804 - [12] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -13005 ms!
+20:27:03,804 - [12] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -11965 ms!
+20:27:03,804 - [12] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -10925 ms!
+20:27:03,804 - [12] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -9885 ms!
+20:27:03,804 - [12] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -8845 ms!
+20:27:03,804 - [12] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -7805 ms!
+20:27:03,804 - [12] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -6765 ms!
+20:27:03,804 - [12] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -5725 ms!
+20:27:03,804 - [12] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -4685 ms!
+20:27:03,804 - [12] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -3645 ms!
+20:27:03,804 - [12] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -2605 ms!
+20:27:03,814 - [12] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -1565 ms!
+20:27:06,015 - [12] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:27:06,056 - [12] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+20:27:06,775 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:27:09,354 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:27:09,638 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:27:11,503 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:27:11,704 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:27:11,871 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:27:14,839 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:27:14,850 - [12] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:27:14,872 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:27:14,890 - [12] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+20:27:15,683 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:27:23,792 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:27:23,821 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:27:23,824 - [12] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:27:23,864 - [12] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+20:27:24,601 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:27:30,557 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:27:30,560 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:27:30,562 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:27:34,509 - [12] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:27:34,549 - [12] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+20:27:35,327 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:27:43,593 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:27:43,603 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:27:43,613 - [12] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:27:43,653 - [12] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+20:27:43,913 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:27:45,563 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:27:45,563 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:27:45,563 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:27:48,293 - [12] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:27:48,333 - [12] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+20:27:49,033 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:27:57,153 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:27:57,173 - [12] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+20:27:57,173 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:27:57,213 - [12] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+20:27:57,483 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:28:02,683 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:28:04,043 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:28:04,113 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:28:04,193 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:28:04,283 - [9] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+20:28:05,513 - [9] - INFO  - Game.Log

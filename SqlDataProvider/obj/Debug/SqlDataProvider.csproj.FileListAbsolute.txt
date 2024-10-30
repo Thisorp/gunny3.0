@@ -1,0 +1,35 @@
+D:\workspace\Server\SqlDataProvider\bin\Debug\SqlDataProvider.dll
+D:\workspace\Server\SqlDataProvider\bin\Debug\SqlDataProvider.pdb
+D:\workspace\Server\SqlDataProvider\bin\Debug\log4net.dll
+D:\workspace\Server\SqlDataProvider\bin\Debug\log4net.xml
+D:\workspace\Server\SqlDataProvider\obj\Debug\ResolveAssemblyReference.cache
+D:\workspace\Server\SqlDataProvider\obj\Debug\SqlDataProvider.dll
+D:\workspace\Server\SqlDataProvider\obj\Debug\SqlDataProvider.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\SqlDataProvider\bin\Debug\SqlDataProvider.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\SqlDataProvider\bin\Debug\SqlDataProvider.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\SqlDataProvider\bin\Debug\log4net.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\SqlDataProvider\bin\Debug\log4net.xml
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\SqlDataProvider\obj\Debug\ResolveAssemblyReference.cache
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\SqlDataProvider\obj\Debug\SqlDataProvider.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\SqlDataProvider\obj\Debug\SqlDataProvider.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\SqlDataProvider\bin\Debug\SqlDataProvider.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\SqlDataProvider\bin\Debug\SqlDataProvider.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\SqlDataProvider\bin\Debug\log4net.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\SqlDataProvider\bin\Debug\log4net.xml
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\SqlDataProvider\obj\Debug\ResolveAssemblyReference.cache
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\SqlDataProvider\obj\Debug\SqlDataProvider.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\SqlDataProvider\obj\Debug\SqlDataProvider.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\SqlDataProvider\bin\Debug\SqlDataProvider.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\SqlDataProvider\bin\Debug\SqlDataProvider.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\SqlDataProvider\bin\Debug\log4net.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\SqlDataProvider\bin\Debug\log4net.xml
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\SqlDataProvider\obj\Debug\ResolveAssemblyReference.cache
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\SqlDataProvider\obj\Debug\SqlDataProvider.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\SqlDataProvider\obj\Debug\SqlDataProvider.pdb
+E:\SourceCode3.0New\Source 3.0\SqlDataProvider\bin\Debug\SqlDataProvider.dll
+E:\SourceCode3.0New\Source 3.0\SqlDataProvider\bin\Debug\SqlDataProvider.pdb
+E:\SourceCode3.0New\Source 3.0\SqlDataProvider\bin\Debug\log4net.dll
+E:\SourceCode3.0New\Source 3.0\SqlDataProvider\bin\Debug\log4net.xml
+E:\SourceCode3.0New\Source 3.0\SqlDataProvider\obj\Debug\SqlDataProvider.csprojResolveAssemblyReference.cache
+E:\SourceCode3.0New\Source 3.0\SqlDataProvider\obj\Debug\SqlDataProvider.dll
+E:\SourceCode3.0New\Source 3.0\SqlDataProvider\obj\Debug\SqlDataProvider.pdb

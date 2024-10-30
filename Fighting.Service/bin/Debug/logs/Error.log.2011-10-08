@@ -1,0 +1,318 @@
+21:47:13,189 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 0  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 236
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 278
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+21:47:14,396 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 1  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 236
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 278
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+21:47:16,221 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 0  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 236
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 278
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+21:47:16,853 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 1  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 236
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 278
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+21:47:19,019 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 0  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 236
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 278
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+21:47:19,031 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 1  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 236
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 278
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+21:47:19,043 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 0  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 236
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 278
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+21:47:19,050 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 1  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 236
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 278
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+21:47:19,058 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 0  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 236
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 278
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+21:47:19,067 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 1  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 236
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 278
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+21:47:19,075 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 0  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 236
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 278
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+21:47:19,082 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 1  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 236
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 278
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+21:47:19,090 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 0  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 236
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 278
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+21:47:19,097 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 1  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 236
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 278
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+21:47:19,103 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 0  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 236
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 278
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+21:47:19,111 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 1  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 236
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 278
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+21:47:19,119 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 0  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 236
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 278
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+21:47:19,127 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 1  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 236
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 278
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+21:47:19,135 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 0  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 236
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 278
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+21:47:19,141 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 1  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 236
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 278
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+21:47:19,147 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 0  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 236
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 278
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+21:47:19,935 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 1  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 236
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 278
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+21:47:20,055 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 0  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 236
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 278
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+21:47:21,053 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 1  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 236
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 278
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+21:47:21,060 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 0  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 236
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 278
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+21:47:22,053 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 0  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 236
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 278
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+21:47:22,132 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 1  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 236
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 278
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+21:47:23,131 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 0  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 236
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 278
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+21:47:23,138 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 1  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 236
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 278
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+21:47:24,131 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 0  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 236
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 278
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+21:47:24,251 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 1  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 236
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 278
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+21:47:25,143 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 0  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 236
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 278
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+21:47:25,327 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 1  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 236
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 278
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+21:50:18,699 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 1  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 236
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 278
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+21:50:18,858 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 0  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 236
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 278
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+21:50:19,697 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 1  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 236
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 278
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+21:50:19,936 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 0  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 236
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 278
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+21:50:20,696 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 1  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 236
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 278
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+21:50:21,015 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 0  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 236
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 278
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+21:50:21,696 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 1  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 236
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 278
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+21:50:22,054 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 0  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 236
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 278
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+21:50:22,696 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 1  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 236
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 278
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+21:50:23,138 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 0  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 236
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 278
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+21:50:23,735 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 1  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 236
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 278
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+21:50:24,219 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 0  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 236
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 278
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+21:50:24,738 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 1  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 236
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 278
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+21:50:25,297 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 0  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 236
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 278
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+21:50:25,737 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 1  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 236
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 278
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+21:50:26,335 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 0  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 236
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 278
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+21:50:26,738 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 1  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 236
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 278
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+21:50:27,415 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 0  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 236
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 278
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+21:50:27,736 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 1  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 236
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 278
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+21:50:28,496 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 0  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 236
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 278
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34

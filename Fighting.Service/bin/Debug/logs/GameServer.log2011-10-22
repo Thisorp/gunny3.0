@@ -1,0 +1,88 @@
+07:35:41,980 - [MAIN] - INFO  - Fighting.Server.FightServer - InitSocket Port:9208: True
+07:35:42,293 - [MAIN] - INFO  - Fighting.Server.FightServer - Registering global event handlers: true
+07:35:42,293 - [MAIN] - INFO  - Fighting.Server.FightServer - Script components: True
+07:35:42,294 - [MAIN] - INFO  - Fighting.Server.FightServer - RoomMgr.Setup: True
+07:35:42,295 - [MAIN] - INFO  - Fighting.Server.FightServer - GameMgr.Setup: True
+07:35:44,534 - [MAIN] - INFO  - Fighting.Server.FightServer - MapMgr Init: True
+07:35:44,651 - [MAIN] - INFO  - Fighting.Server.FightServer - ItemMgr Init: True
+07:35:44,703 - [MAIN] - INFO  - Fighting.Server.FightServer - ItemMgr Init: True
+07:35:45,714 - [MAIN] - INFO  - Fighting.Server.FightServer - BallMgr Init: True
+07:35:45,755 - [MAIN] - INFO  - Fighting.Server.FightServer - BallConfigMgr Init: True
+07:35:45,885 - [MAIN] - INFO  - Fighting.Server.FightServer - DropMgr Init: True
+07:35:45,923 - [MAIN] - INFO  - Fighting.Server.FightServer - NPCInfoMgr Init: True
+07:35:45,949 - [MAIN] - INFO  - Fighting.Server.FightServer - LanguageMgr Init: True
+07:35:45,964 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+07:35:45,976 - [MAIN] - INFO  - Fighting.Server.FightServer - base.Start(): True
+07:35:46,029 - [MAIN] - INFO  - Fighting.Server.FightServer - GameServer is now open for connections!
+07:40:32,414 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:52775
+07:50:02,329 - [3] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+07:56:41,440 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:53336
+08:02:29,492 - [3] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+08:03:48,456 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:53544
+08:07:32,189 - [3] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+08:08:02,265 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:53648
+08:12:44,217 - [3] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+08:16:57,296 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:53883
+08:22:36,230 - [3] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+08:28:09,017 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:54113
+08:34:33,233 - [3] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+08:35:21,277 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:54309
+08:36:43,896 - [3] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+08:37:19,602 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:54399
+08:41:36,916 - [3] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+08:43:13,603 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:54599
+08:58:39,198 - [3] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+08:59:28,473 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:55086
+09:00:06,056 - [3] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+09:00:41,503 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:55101
+09:02:24,373 - [5] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+09:02:24,403 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitPlayerLoadingAction
+09:02:27,148 - [3] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+09:02:28,028 - [3] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+09:02:28,038 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+09:02:28,148 - [3] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+0909:04:49,076 - [MAIN] - INFO  - Fighting.Server.FightServer - InitSocket Port:9208: True
+09:04:49,186 - [MAIN] - INFO  - Fighting.Server.FightServer - Registering global event handlers: true
+09:04:49,186 - [MAIN] - INFO  - Fighting.Server.FightServer - Script components: True
+09:04:49,186 - [MAIN] - INFO  - Fighting.Server.FightServer - RoomMgr.Setup: True
+09:04:49,186 - [MAIN] - INFO  - Fighting.Server.FightServer - GameMgr.Setup: True
+09:04:50,828 - [MAIN] - INFO  - Fighting.Server.FightServer - MapMgr Init: True
+09:04:50,936 - [MAIN] - INFO  - Fighting.Server.FightServer - ItemMgr Init: True
+09:04:50,940 - [MAIN] - INFO  - Fighting.Server.FightServer - ItemMgr Init: True
+09:04:52,790 - [MAIN] - INFO  - Fighting.Server.FightServer - BallMgr Init: True
+09:04:52,796 - [MAIN] - INFO  - Fighting.Server.FightServer - BallConfigMgr Init: True
+09:04:52,809 - [MAIN] - INFO  - Fighting.Server.FightServer - DropMgr Init: True
+09:04:52,817 - [MAIN] - INFO  - Fighting.Server.FightServer - NPCInfoMgr Init: True
+09:04:52,822 - [MAIN] - INFO  - Fighting.Server.FightServer - LanguageMgr Init: True
+09:04:52,833 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+09:04:52,843 - [MAIN] - INFO  - Fighting.Server.FightServer - base.Start(): True
+09:04:52,872 - [MAIN] - INFO  - Fighting.Server.FightServer - GameServer is now open for connections!
+09:04:57,410 - [8] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:55368
+09:07:02,901 - [10] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+09:07:02,927 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitPlayerLoadingAction
+09:07:04,625 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+09:07:04,657 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+09:07:05,640 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+09:07:05,660 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+09:07:06,062 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+09:07:06,101 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+09:07:06,807 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+09:07:08,187 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+09:07:08,267 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+09:07:10,857 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+09:07:11,617 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+09:07:15,157 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+09:07:18,097 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+09:07:18,097 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+09:07:18,097 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+09:07:21,107 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+09:07:21,147 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+09:07:22,047 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+09:07:25,007 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+09:07:27,703 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+09:07:30,661 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+09:07:30,663 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+09:07:30,665 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+09:07:30,678 - [11] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+09:07:35,479 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -4736 ms!
+09:07:35,479 - [11] - WARN  - Fighting.Server.Games.GameMgr - Room Mg

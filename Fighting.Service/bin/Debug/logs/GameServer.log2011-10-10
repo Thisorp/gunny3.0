@@ -1,0 +1,69 @@
+15:08:32,530 - [MAIN] - INFO  - Fighting.Server.FightServer - InitSocket Port:9208: True
+15:08:32,740 - [MAIN] - INFO  - Fighting.Server.FightServer - Registering global event handlers: true
+15:08:32,741 - [MAIN] - INFO  - Fighting.Server.FightServer - Script components: True
+15:08:32,742 - [MAIN] - INFO  - Fighting.Server.FightServer - RoomMgr.Setup: True
+15:08:32,744 - [MAIN] - INFO  - Fighting.Server.FightServer - GameMgr.Setup: True
+15:08:39,025 - [MAIN] - INFO  - Fighting.Server.FightServer - MapMgr Init: True
+15:08:39,224 - [MAIN] - INFO  - Fighting.Server.FightServer - ItemMgr Init: True
+15:08:39,260 - [MAIN] - INFO  - Fighting.Server.FightServer - ItemMgr Init: True
+15:08:40,313 - [MAIN] - INFO  - Fighting.Server.FightServer - BallMgr Init: True
+15:08:41,197 - [MAIN] - INFO  - Fighting.Server.FightServer - DropMgr Init: True
+15:08:41,412 - [MAIN] - INFO  - Fighting.Server.FightServer - NPCInfoMgr Init: True
+15:08:41,470 - [MAIN] - INFO  - Fighting.Server.FightServer - LanguageMgr Init: True
+15:08:41,480 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+15:08:41,522 - [MAIN] - INFO  - Fighting.Server.FightServer - base.Start(): True
+15:08:41,527 - [MAIN] - INFO  - Fighting.Server.FightServer - GameServer is now open for connections!
+15:08:49,392 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:49285
+15:12:33,060 - [3] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+15:13:11,093 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:49319
+15:22:14,322 - [3] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+15:22:43,068 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:49344
+15:22:44,146 - [3] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+15:22:57,310 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:49348
+15:37:10,968 - [5] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+15:37:10,978 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitPlayerLoadingAction
+15:37:12,306 - [3] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+15:37:12,363 - [6] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 0  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 236
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 278
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+15:37:12,597 - [3] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+15:37:12,792 - [6] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 1  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 236
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 278
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+15:37:13,331 - [3] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+15:37:13,346 - [6] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 0  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 236
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 278
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+15:37:13,683 - [3] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+15:37:13,706 - [6] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 1  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 236
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 278
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+15:37:14,331 - [3] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+15:37:14,346 - [6] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 0  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 236
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 278
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+15:37:14,756 - [3] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+15:37:14,786 - [6] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 1  cmd:0x10
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 236
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:line 278
+   at Game.Logic.Cmd.LoadCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\LoadCommand.cs:line 18
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+15:37:15,331 - [3] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+15:37:15,346 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVPGameStateAction
+15:37:15,347 - [6] - ERROR - Game.Logic.Actions.ProcessPac

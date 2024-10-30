@@ -1,0 +1,43 @@
+09:21:37,294 - [MAIN] - INFO  - Fighting.Server.FightServer - InitSocket Port:9208: True
+09:21:37,326 - [MAIN] - INFO  - Fighting.Server.FightServer - Registering global event handlers: true
+09:21:37,327 - [MAIN] - INFO  - Fighting.Server.FightServer - Script components: True
+09:21:37,328 - [MAIN] - INFO  - Fighting.Server.FightServer - RoomMgr.Setup: True
+09:21:37,330 - [MAIN] - INFO  - Fighting.Server.FightServer - GameMgr.Setup: True
+09:21:37,480 - [MAIN] - INFO  - Fighting.Server.FightServer - MapMgr Init: True
+09:21:37,510 - [MAIN] - INFO  - Fighting.Server.FightServer - ItemMgr Init: True
+09:21:37,514 - [MAIN] - INFO  - Fighting.Server.FightServer - ItemMgr Init: True
+09:21:37,532 - [MAIN] - INFO  - Fighting.Server.FightServer - BallMgr Init: True
+09:21:37,542 - [MAIN] - INFO  - Fighting.Server.FightServer - DropMgr Init: True
+09:21:37,548 - [MAIN] - INFO  - Fighting.Server.FightServer - NPCInfoMgr Init: True
+09:21:37,552 - [MAIN] - INFO  - Fighting.Server.FightServer - LanguageMgr Init: True
+09:21:37,557 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+09:21:37,567 - [MAIN] - INFO  - Fighting.Server.FightServer - base.Start(): True
+09:21:37,574 - [MAIN] - INFO  - Fighting.Server.FightServer - GameServer is now open for connections!
+09:24:03,313 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:50823
+10:31:08,391 - [3] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+10:33:52,175 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:51064
+10:35:00,971 - [3] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+10:40:06,286 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:51086
+10:41:14,034 - [3] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+10:41:54,582 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:51095
+10:47:24,849 - [3] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+10:47:30,026 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:51104
+10:52:25,240 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:51106
+11:11:23,017 - [3] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+11:43:31,349 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:51201
+11:47:19,307 - [3] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+11:47:51,141 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:51241
+11:54:14,378 - [3] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+11:57:47,396 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:51256
+11:57:54,335 - [3] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+11:58:06,416 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:51258
+12:04:52,162 - [3] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+12:05:52,330 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:51291
+12:08:45,126 - [3] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+12:11:59,387 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:51309
+12:14:05,024 - [3] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+12:14:59,091 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:51320
+12:19:13,525 - [3] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+12:19:17,553 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:51331
+12:24:37,299 - [3] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+12:32:05,687 - [3] - INFO  - Game.Base.Bas
